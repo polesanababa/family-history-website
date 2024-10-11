@@ -1,0 +1,43 @@
+.main{
+    background-color: aliceblue;
+    height: 500px;
+    width: auto;
+    text-align: center;
+}
+.header{
+    background-color: rgb(192, 143, 192);
+    text-align: center;
+    height: 125px;
+
+
+}
+.p{
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+    font-size: 25px;
+    background-color:rgb(192, 143, 192) ;
+    height: 150px;
+    
+}
+
+.body{
+    background-color: aliceblue;
+}
+.a{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.links a{
+    font-size: 27px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: black;
+}
+.links a:hover{
+    color: blue;
+}
